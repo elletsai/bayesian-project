@@ -1,4 +1,4 @@
-# personal_project
+# personal project
 Play by ourselves and advanced analytivs skills at the same time
 
 ## Agenda
