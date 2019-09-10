@@ -2,7 +2,7 @@
 Play by ourselves and advanced analytivs skills at the same time
 
 ## Agenda
-| Pip line | Description|
+| Pipeline | Description|
 |----------|------------|
 | Choose Data Set|  |
 | Clean Data | |
